@@ -34,4 +34,17 @@ If your dataset is located elsewhere, update the file paths accordingly in the c
 
 2. **Install required libraries** (for Pandas and Polars scripts):
    ```bash
-   pip install pandas polars  
+   pip install pandas polars
+
+🔍 Objective & Key Insights
+This project summarizes 2024 U.S. election social media data using Pure Python, Pandas, and Polars, aiming to replicate identical descriptive statistics across all methods.
+
+🧠 Key Learnings:
+Pandas was the easiest to use and interpret — highly recommended for most analysts.
+
+Polars was fastest, especially with larger datasets.
+
+Pure Python worked but required more manual effort and was slow.
+
+🤖 On Using AI Tools:
+AI like ChatGPT reliably suggests Pandas-based templates. This is accurate — Pandas offers the best mix of power and ease of use.
